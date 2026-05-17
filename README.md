@@ -25,11 +25,7 @@
 
 ### — About Me —
 
-Mathematics and Computing student at heart, software engineer by practice. I build full-stack applications, explore DevOps tooling, and solve problems with code — not just theory.
-
-I won **1st place at the IEEE Data Visualization Challenge**, where my team transformed complex datasets into clear, compelling visual narratives using EDA. That project taught me that the best engineers don't just write code — they communicate ideas through it.
-
-Right now I'm deep in the full-stack world — React, Node.js, Docker, Kubernetes — understanding how systems actually work from the ground up, one project at a time. I'm also actively entering the open source space, learning real engineering workflows through collaboration and code review.
+I am a passionate full-stack developer and Mathematics & Computing student, focused on engineering scalable, real-world applications from the ground up.. I thrive in hands-on environments like hackathons, consistently choosing to build full-stack applications, explore DevOps tooling, and solve problems with code — not just theory. My focus remains on mastering system design to engineer versatile, real-world solutions that blend creativity with robust technical execution.
 
 > *"Consistent daily progress beats occasional brilliance — building with purpose, growing with intent."*
 
