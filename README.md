@@ -94,7 +94,7 @@ A responsive portfolio website built with the visual language of Spotify — dar
 
 **🔥 Forest Fire Simulator**
 
-A simulation of fire spread using Cellular Automata, built during a hackathon. Demonstrates how simple mathematical rules produce complex emergent behavior — a direct application of Math × CS thinking.
+An interactive wildfire propagation simulator built with Streamlit and Cellular Automata, modeling how fire spreads across terrain using environmental factors like wind, slope, and fuel. Designed for real-time experimentation, this tool allows users to dynamically control simulation parameters and visualize fire behavior step-by-step.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Simulation](https://img.shields.io/badge/Simulation-00FFFF?style=flat-square)
