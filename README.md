@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- TYPING SVG HERO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hi+there%2C+I'm+Jayesh+Kapoor+%F0%9F%91%8B;Math+%26+Computing+%7C+Full+Stack+%7C+DevOps;Builder.+Learner.+Engineer+in+Progress.;%F0%9F%8F%86+IEEE+DataViz+Champion+%7C+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hi+there%2C+I'm+Jayesh+Kapoor+%F0%9F%91%8B;Math+%26+Computing+%7C+Full+Stack+%7C+DevOps;Builder.+Learner.+Engineer+in+Progress.)](https://git.io/typing-svg)
 
 ![Banner](https://raw.githubusercontent.com/jayeshxgit/jayeshxgit/main/banner.svg)
 
